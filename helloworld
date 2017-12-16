@@ -1,0 +1,17 @@
+#include<iostream.h>
+using namespace std;
+int  main()
+{
+	int a,total=0;
+	cout<<"give a number";
+	cin>>"a";
+	for(j=1;j<a;j++)
+	{
+for(i=2;i<a;i++)
+{
+b=a%i;
+if b==0
+total=total+1;
+
+}
+}
